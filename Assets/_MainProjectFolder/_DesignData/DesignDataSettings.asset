@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1905a01fe3271ca4484ac4adb8bec3ad, type: 3}
+  m_Name: DesignDataSettings
+  m_EditorClassIdentifier: 
+  Lifes: 1
+  PlayerSpeedMovement: 8
+  BasicBallSpeedMovement: 5
+  BallSpeedMovementAccelerationPerLevel: 1
+  NumberOfRows: 2
+  NumberOfColumns: 18
+  ChanceForDoubleScoreBlock: 43.8
+  ChanceForBulletTimeBlock: 44.6
+  ChanceForAdditionalLifeBlock: 53.6
+  ChanceForNormalBlock: 55.4
+  ScoreForNormalBlock: 100
+  ScoreForDoubleScoreBlock: 200
+  AddLifesCount: 1
+  BulletTimeScale: 0.5
+  BulletTimeDuration: 3

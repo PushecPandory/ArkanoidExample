@@ -1,0 +1,1 @@
+This file exists only for GIT tracking purpose. Delete it when folder won't be empty.
